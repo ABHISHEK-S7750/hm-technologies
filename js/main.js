@@ -33,10 +33,11 @@ document.addEventListener('DOMContentLoaded', ()=>{
     const email = form.email.value;
 
     const message = `New Enquiry:%0AName: ${name}%0APhone: ${phone}%0AEmail: ${email}`;
-    const yourNumber = "7892987283"; // replace with your WhatsApp number
+    const yourNumber = "8660742050"; // replace with your WhatsApp number
 
     window.open(`https://wa.me/${yourNumber}?text=${message}`, "_blank");
 
     form.reset();
   });
 });
+
