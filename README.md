@@ -29,19 +29,20 @@ The website presents company information, AIS-140 compliant products, service fe
 ---
 
 ## 📂 Folder Structure
-
+---
 HM-Technologies/
-├── index.html
+├── index.html # Main website structure
 ├── css/
-│ └── styles.css
+│ └── styles.css # Styles, layout, responsive design
 ├── js/
-│ └── main.js
+│ └── main.js # Mobile nav + WhatsApp form handler
 ├── Assets/
-│ ├── logo.png
-│ ├── product images...
-│ └── hero images...
+│ ├── logo.png # Company logo
+│ ├── product-1.jpg # Product images
+│ ├── hero.jpg # Hero banner image
+│ └── others...
 └── README.md
-
+---
 
 ---
 
