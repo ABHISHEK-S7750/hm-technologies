@@ -29,7 +29,7 @@ The website presents company information, AIS-140 compliant products, service fe
 ---
 
 ## 📂 Folder Structure
----
+
 HM-Technologies/
 ├── index.html # Main website structure
 ├── css/
@@ -42,7 +42,6 @@ HM-Technologies/
 │ ├── hero.jpg # Hero banner image
 │ └── others...
 └── README.md
----
 
 ---
 
